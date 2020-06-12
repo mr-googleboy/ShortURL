@@ -7,7 +7,7 @@
   Short Link Generator 
 </p>
 
-<a href="https://t.me/OnlineHacking"><img src="https://img.shields.io/badge/telegram-Ms.Suman || OnlineHacking-blue.svg">
+<a href="https://t.me/OnlineHacking"><img src="https://img.shields.io/badge/telegram-Mr.Suman || OnlineHacking-blue.svg">
 
 
 ### MAINTAINERS
