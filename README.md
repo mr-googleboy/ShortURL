@@ -2,9 +2,9 @@
   <img src="https://i.pinimg.com/originals/54/19/02/541902f716f7edd427cfa5a9e1230be6.png">  
 </p>
 
-<h1 align="center">IP Location Generator - OnlineHacking</h1>
+<h1 align="center">ShortURL - OnlineHacking</h1>
 <p align="center">
-  Location Generator 
+  Short Link Generator 
 </p>
 
 <a href="https://t.me/OnlineHacking"><img src="https://img.shields.io/badge/telegram-Ms.Suman || OnlineHacking-blue.svg">
@@ -16,7 +16,7 @@ Twitter: <a href="https://twitter.com/suman333mondal">@suman333mondal</a>
 Github: <a href="https://github.com/OnlineHacking">@OnlineHacking</a>
 Telegram: <a href="https://t.me/OnlineHacking">@OnlineHacking</a>
 
-![unnamed (2)](https://i.pinimg.com/originals/5b/46/b2/5b46b2ad5b4b292295d395b98fa3eb3c.png)
+![unnamed (2)](https://i.pinimg.com/originals/85/9d/73/859d73549fecc2d9d5b44f02c6ae4044.png)
 
 
 
@@ -27,6 +27,12 @@ Telegram: <a href="https://t.me/OnlineHacking">@OnlineHacking</a>
 * Linux
 
 ### Installation and usage guide
+```
+$ pkg update
+```
+```
+$ pkg install git -y
+```
 ```
 $ git clone https://github.com/OnlineHacKing/ShortURL.git
 ```
@@ -39,30 +45,7 @@ $ bash setup.sh
 ```
 $ ShortUrl
 ```
-```
-$ pkg install git -y
-```
-```
-$ pip install requests
-```
-```
-$ ls
-```
-```
-$ 
-```
-```
-$ ls
-```
-```
-$ cd ShortURL
-```
-```
-$ ls
-```
-```
-$ python IpDorp.py -v (your victim ip here)
-```
+
 ## Type `shorturl` or `ShortUrl` to run the Tool.
 
 ### Subscribe our channel on youtube
