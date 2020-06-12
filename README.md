@@ -20,7 +20,7 @@ Telegram: <a href="https://t.me/OnlineHacking">@OnlineHacking</a>
 
 
 
-### IpDorp is available for
+### ShortURL is available for
 
 * Termux
 
