@@ -12,7 +12,7 @@ printf "\e[0m\e[1;93m  |_____/|_| |_|\___/|_|   \__| \e[0m\e[1;92m \____/|_|  \_
 printf "\e[0m\n"
 printf "\e[0m\e[1;93m        Created By Online HacKing \e[0m\e[1;91m( \e[0m\e[1;92mSuman Mondal \e[0m\e[1;91m)\e[0m\n"
 printf "\e[0m\n"
-printf "\e[0m\e[1;93m    Github :\e[0m\e[1;96m onlinehacking \e[0m\e[1;97m| \e[0m\e[1;93mYouTube :\e[0m\e[1;96m Online Hacking\e[0m\n"
+printf "\e[0m\e[1;93m    Github :\e[0m\e[1;96m onlinehacking \e[0m\e[1;97m| \e[0m\e[1;93mTelegram :\e[0m\e[1;96m @OnlineHacking\e[0m\n"
 }
 banner
 printf "\e[0m\n"
