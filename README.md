@@ -49,10 +49,10 @@ $ ShortUrl
 ## Type `shorturl` or `ShortUrl` to run the Tool.
 
 ### Subscribe our channel on youtube
-https://www.youtube.com/channel/UCwREEQuPIk7EtaRrZBVvDwg?view_as=subscriber&pbjreload=101
+https://www.telegram.me
 
 ### Chekout our webite 
-www.onlinehacking-net.cf
+www.feedbuzz.me
      
 ### Warning
 
@@ -60,23 +60,22 @@ www.onlinehacking-net.cf
 
 # ■□■□■□■□■□■□ Social Media □■□■□■□■□■□■
 
-Website :- http://www.onlinehacking-net.cf
+Website :- http://www.feedbuzzme
 
-YouTube Channel :- https://bit.ly/on9youtube
 
-Telegram Change :- https://t.me/OnlineHacking
 
-Telegram Group :- https://t.me/OnlineHacking0
+Telegram Change :- https://t.me/feeedbuzzme
+
+Telegram Group :- https://t.me/feedbuzzme
 
 Github :- https://github.com/OnlineHacKing
 
 Facebook :-  https://bit.ly/facebook4page
 
-Twitter :- https://bit.ly/twittersuman
+Twitter :- https://bit.ly/feedbuzzofcl
 
-Instagram :- https://bit.ly/instagram9oh
-
-<a href="https://t.me/OnlineHacking"><img src="https://img.shields.io/badge/telegram-Ms.Suman || OnlineHacking-blue.svg">
+Instagram :- https://bit.ly/feedbuzzme
 
 
-                                       Inspired By github.com/OnlineHacking
+
+
